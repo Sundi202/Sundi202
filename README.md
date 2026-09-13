@@ -94,20 +94,6 @@ I'm interested in roles where I can apply both preventive security (policy, auto
 - Writing alert reports following security frameworks and best practices
 - **Focus:** Connecting preventive policy-as-code controls to runtime SOC detection workflows
 
----
-
-## Professional Experience
-
-**Desktop Support Technician Intern** | World Vision Australia | Nov 2025 – Jan 2026
-- Resolved 10+ ServiceNow incidents and service requests, triaging and escalating to L2 teams
-- Provided in-person technical support, troubleshooting Windows/macOS, hardware, and meeting room AV
-- Managed user account provisioning/deprovisioning in Active Directory and Microsoft 365
-- Assisted with device imaging, deployment, and asset management
-- **Award:** High Distinction in Work Integrated Learning unit
-
-**DeakinTALENT Career Ambassador** | Deakin University | Feb–Dec 2025
-- Directed 100+ students to university services and resources in a fast-paced environment
-- **Recognition:** Ambassador of the Month, August 2025
 
 ---
 
